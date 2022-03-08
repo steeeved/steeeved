@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/StephenMaina2019"><img height="137.3px" src="https://img.shields.io/github/followers/StephenMaina2019.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://github.com/StephenMaina2019"><img src="https://img.shields.io/github/followers/StephenMaina2019.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/MuchenduOnIt"><img height="137.3px" src="https://img.shields.io/twitter/follow/MuchenduOnIt?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img height="137.3px" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="/"><img src="https://komarev.com/ghpvc/?username=StephenMaina2019&label=Profile%20Views&color=orange&style=flat" alt="StephenMaina2019" /></a>
 </p>
 
