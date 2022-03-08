@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/StephenMaina2019"><img src="https://img.shields.io/github/followers/StephenMaina2019.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/MuchenduOnIt"><img src="https://img.shields.io/twitter/follow/MuchenduOnIt?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/organisations/lynnemunini"><img src="https://img.shields.io/badge/Organisations--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Organisations"></a>
+</p>
 <a href="https://images.alphacoders.com/876/876589.jpg" target="blank"><img align="center" src="https://images.alphacoders.com/876/876589.jpg" height="500" /></a>
-
 
 <!--
 **StephenMaina2019/StephenMaina2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
