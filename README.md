@@ -6,10 +6,11 @@
   <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/organisations/StephenMaina2019"><img src="https://img.shields.io/badge/Organisations--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Organisations"></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=(0, 255, 0" width="400">
+
 <p align="center">
   <a href="https://images.alphacoders.com/876/876589.jpg" target="blank"><img align="center" src="https://images.alphacoders.com/876/876589.jpg" height="500" /></a>
   <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Muchendu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephenMaina2019&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+ </p>
 
 <!--
 **StephenMaina2019/StephenMaina2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
