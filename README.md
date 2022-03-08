@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/StephenMaina2019"><img src="https://img.shields.io/github/followers/StephenMaina2019.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/MuchenduOnIt"><img height="137.3px" src="https://img.shields.io/twitter/follow/MuchenduOnIt?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img height="137.3px" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/MuchenduOnIt"><img src="https://img.shields.io/twitter/follow/MuchenduOnIt?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="/"><img src="https://komarev.com/ghpvc/?username=StephenMaina2019&label=Profile%20Views&color=orange&style=flat" alt="StephenMaina2019" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=highcontrast" width="400">
-  <a href="https://github.com/StephenMaina2019/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&layout=compact&theme=highcontrast" /></a>
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=highcontrast" width="400">
+  <a href="https://github.com/StephenMaina2019/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&layout=compact&theme=highcontrast" /></a>
   <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Muchendu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephenMaina2019&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
  </p>
 
