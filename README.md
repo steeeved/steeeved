@@ -9,7 +9,7 @@
 
 <p align="center">
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=highcontrast" width="400">
-  <a href="https://github.com/StephenMaina2019/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=yeblu" /></a>
+  <a href="https://github.com/StephenMaina2019/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=highcontrast" /></a>
  </p>
 
 <!--
