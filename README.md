@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=highcontrast" width="400">
   <a href="https://github.com/StephenMaina2019/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&layout=compact&theme=highcontrast" /></a>
-  <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Muchendu's Activity Graph" align="center" src="https://activity-graph.herokuapp.com/graph?username=StephenMaina2019&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Finyasy/github-readme-activity-graph"><img align="center" alt="Muchendu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephenMaina2019&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
  </p>
 
 <!--
