@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=(0, 255, 0" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&show_icons=true&theme=highcontrast" width="400">
   <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Muchendu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephenMaina2019&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
  </p>
 
