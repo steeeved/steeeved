@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://images.alphacoders.com/876/876589.jpg" target="blank"><img align="center" src="https://images.alphacoders.com/876/876589.jpg" height="100" /></a>
+
+
 <!--
 **StephenMaina2019/StephenMaina2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
