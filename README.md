@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=StephenMaina2019&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFF&icon_color=ff00a4&theme=highcontrast">
-  <a href="https://github.com/StephenMaina2019/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMaina2019&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=highcontrast" /></a>
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Digikids&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFF&icon_color=ff00a4&theme=highcontrast">
+  <a href="https://github.com/Digikids/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digikids&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=highcontrast" /></a>
  </p>
 
 <!--
