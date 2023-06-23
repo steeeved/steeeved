@@ -1,5 +1,7 @@
 <h1>👋 Hello there, I’m @Steve</h1>
-<div><img src="./steve.jpg" width="80" height="auto" style="border-radius: 50%;" /></div>
+<div style="display: inline-block; border-radius: 50%;">
+  ![Steve](./steve.jpg)
+</div>
 <div>
 <h3>About Me :</h3>
 <ul>
