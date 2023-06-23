@@ -1,5 +1,5 @@
 <h1>👋 Hello there, I’m @Steve</h1>
-<div><img src="./steve.jpg"</div>>
+<div><img src="./steve.jpg" width="80" height="80" borderRadius="50%"/></div>
 <div>
 <h3>About Me :</h3>
 <ul>
