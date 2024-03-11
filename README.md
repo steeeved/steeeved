@@ -2,16 +2,6 @@
 <div style="display: inline-block; border-radius: 50%;">
   ![Steve](./steve.jpg)
 </div>
-<div>
-<h3>About Me :</h3>
-<ul>
-<li>👾 Part of Pinely International</li>
-<li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: stephen.muchendu@pinely.eu</li>
-</ul>
-
-<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
