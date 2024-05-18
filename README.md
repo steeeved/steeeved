@@ -1,6 +1,6 @@
-# 💫 About Me:
+# STEVED!
 
-<img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" /> Check my [Portfolio](https://abdokotb.netlify.app/)<br>🤩 Web Developer<br>🌱 Always learning new techs<br>📫 Reach me at smriunge@gmail.com<br>
+<img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" /> Check my [Portfolio](https://www.milkywaycooperation.com/)<br>Developer<br>🌱 <br>📫 Reach me at smriunge@gmail.com<br>
 
 # 💻 Tech Stack:
 
