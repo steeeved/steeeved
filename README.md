@@ -1,6 +1,7 @@
 # STEVED!
 
-[Portfolio](https://www.milkywaycooperation.com/)<br>Software Developer<br>
+<br>Software Developer<br>
+[Portfolio](https://www.milkywaycooperation.com/)
 
 # 💻 Tech Stack:
 
