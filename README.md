@@ -1,6 +1,6 @@
 # STEVED!
 
-[Portfolio](https://www.milkywaycooperation.com/)<br>🌱 Developer<br>📫 Reach Out smriunge@gmail.com<br>
+[Portfolio](https://www.milkywaycooperation.com/)<br>Software Developer<br>
 
 # 💻 Tech Stack:
 
