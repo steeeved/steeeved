@@ -1,5 +1,3 @@
-# STEVED!
-
 <br>Software Developer<br>
 [Portfolio](https://www.milkywaycooperation.com/)
 
