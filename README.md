@@ -1,5 +1,12 @@
-Hi, I'm Stephen! 👋 
+# Hi, I'm Stephen 👋
 
-I'm a software developer in the Nairobi area. I have [a tech and software development blog](https://stephenmuchendu.dev/articles?q=) that I post articles on & I've also built [some apps](https://stephenmuchendu.dev/projects?q=).
+I build software near Nairobi. Most days that means React, TypeScript and Node,
+plus a fair amount of time spent working out why the thing that worked yesterday
+doesn't today.
 
-You can also check out more of my work and projects on my [portfolio site](https://stephenmuchendu.dev/).
+I keep [a blog](https://stephenmuchendu.dev/articles?q=) where I write up the
+problems that took me longer than they should have, and I've shipped
+[a few apps](https://stephenmuchendu.dev/projects?q=) along the way. The rest of
+my work lives on [my site](https://stephenmuchendu.dev/).
+
+If you find a bug in something of mine, tell me. I'd rather know.
