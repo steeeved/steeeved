@@ -1,6 +1,6 @@
 # Hi, I'm Stephen 👋
 
-I build software near Nairobi. Most days that means React, TypeScript and Node,
+I build software in Nairobi. Most days that means React, TypeScript and Node,
 plus a fair amount of time spent working out why the thing that worked yesterday
 doesn't today.
 
